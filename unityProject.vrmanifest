@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrpumptest2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Rendina\\Downloads\\MasterThesis\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR pump test 2 [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene-2.unity
+    guid: 729c4850844ea40b5841ce438eadb443
+  - enabled: 1
+    path: Assets/Scenes/Scene-1.unity
+    guid: a41aa5fa80115422fbba7288dc497bd9
+  - enabled: 1
+    path: Assets/Scenes/Scene0.unity
+    guid: bfa65a6e565c33d4c8e284007edc5613
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: b7a2418ebddee4498b4132170158654a
+  - enabled: 1
+    path: Assets/Scenes/Scene2.unity
+    guid: efe7e478ea3ea59459727faf555b0c41
+  - enabled: 1
+    path: Assets/Scenes/Scene3.unity
+    guid: c4b8645038a71411eb42d40e14988d07
+  - enabled: 1
+    path: Assets/Scenes/Scene4.unity
+    guid: d5575b23931b04f96a5bb84609119092
+  - enabled: 1
+    path: Assets/Scenes/Scene5.unity
+    guid: 7b7fbbbf3fa094cc29a09a4ce93af633
+  - enabled: 1
+    path: Assets/Scenes/Scene6.unity
+    guid: 00a3a4c02ccd940f3b7673031b3b1e54
+  - enabled: 1
+    path: Assets/Scenes/Scene7.unity
+    guid: e8e7e0135a1b1433fad4188e91c2d09c
+  - enabled: 1
+    path: Assets/Scenes/Scene8.unity
+    guid: 594b51b49d57145549162df1ef12ee4a
+  - enabled: 1
+    path: Assets/Scenes/Scene9.unity
+    guid: 27989b5c51d984809bbb4da3d7f16ecb
+  - enabled: 1
+    path: Assets/Scenes/Scene10.unity
+    guid: 3a9d321929f144adeb0a63d66bdc16d4
+  - enabled: 1
+    path: Assets/Scenes/Scene11.unity
+    guid: f48693f4c52050d4ba0ba774d29aecde
+  - enabled: 1
+    path: Assets/Scenes/Scene12.unity
+    guid: d08313ba271f6d946a7fd68200e18aeb
+  - enabled: 1
+    path: Assets/Scenes/Scene13.unity
+    guid: e68572df7ac95884aafa18297ec35fe5
+  - enabled: 1
+    path: Assets/Scenes/Scene14.unity
+    guid: c4e3148a84cd0bf488d7ccc3de883fee
+  - enabled: 1
+    path: Assets/Scenes/Scene15.unity
+    guid: e47abd62ce8b1244da12b800fedac3fe
+  - enabled: 1
+    path: Assets/Scenes/Scene16.unity
+    guid: 22c60a0e6641135428fa00151e4bf0b5
+  m_configObjects: {}
